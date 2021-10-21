@@ -23,7 +23,7 @@ public class HelloWorld {
             System.out.println("j = " + j);
         }
 
-        int kk = 0;
+
 
 
 
