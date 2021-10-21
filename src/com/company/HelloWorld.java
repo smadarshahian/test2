@@ -27,6 +27,8 @@ public class HelloWorld {
 
         System.out.println("print");
 
+        System.out.println("print");
+
 
     }
 
