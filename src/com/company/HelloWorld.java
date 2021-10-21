@@ -22,6 +22,8 @@ public class HelloWorld {
         for (int j = 0; j < 3; j++) {
             System.out.println("j = " + j);
         }
+        System.out.println("print");
+        System.out.println("print");
 
 
 
